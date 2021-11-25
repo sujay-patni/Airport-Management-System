@@ -24,7 +24,7 @@ public class Main {
 		{   
 			int choice;
 			System.out.println("\nMenu");
-			System.out.println("1.Register User");
+			System.out.println("1.Register Customer");
 			System.out.println("2.Customer Login");
 			System.out.println("3.Staff Login");
 			System.out.println("4.Admin");
