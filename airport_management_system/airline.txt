@@ -1,5 +1,0 @@
-I5,AirAsia
-AI,Air India
-6E,IndiGo
-SG,SpiceJet
-VTI,Vistara
